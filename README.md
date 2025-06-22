@@ -104,3 +104,7 @@ Maps countries to continents for geographic segmentation.
 | **Tableau** | Dashboard building & visualization  |
 | **CSV Files** | Data source (uploaded to ChatGPT) |
 | **GitHub**   | Project hosting & documentation     |
+
+---
+
+![Dashboard 1](https://github.com/user-attachments/assets/56dc8534-1fd7-48b7-8141-247e62588f3d)
