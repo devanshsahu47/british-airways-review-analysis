@@ -86,4 +86,4 @@ Used to map countries to continents for regional segmentation.
 
 ---
 
-![Dashboard 1](https://github.com/user-attachments/assets/6b67ce4d-48e7-436c-b655-6e4f3fbdc822)
+![Dashboard 1](https://public.tableau.com/views/BritishAirwaysReviews_17505641499900/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
